@@ -1,6 +1,6 @@
 # BROKEN ON PURPOSE.
 # Run it, read the last line, then fix it.
 
-value = input("Value: ")
+labels = ["R-001", "R-002", "R-003"]
 
-print(value + 1)
+print(labels[0:3])
