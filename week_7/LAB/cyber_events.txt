@@ -1,0 +1,5 @@
+SRC=10.0.0.5,ATTEMPTS=12,RESULT=FAILED
+ src = 10.0.0.8 , attempts = 3 , result = success
+Src=192.168.1.20,Attempts=10,Result=success
+ SRC = 172.16.0.4 , RESULT = Failed , attempts = 1
+src=10.0.0.15, result=SUCCESS, attempts=7
