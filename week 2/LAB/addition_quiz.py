@@ -1,7 +1,6 @@
 '' '' ''
 #Adition Quiz
 '' '' ''
-
 import random
 while True:
     num1 = random.randint(1, 10)
